@@ -29,7 +29,7 @@ export default function Home() {
           whiteSpace: "pre-wrap",
         }}
       >
-        <h3>Hey Punitha 👋, I Wanna Tell You Something...</h3>
+        <h3>Hey Punitha 👋, I Wanna Tell You Something.....</h3>
 
         <h3 style={{ marginTop: "30px" }}>
           There&apos;s something inside me I have been holding for too long and
